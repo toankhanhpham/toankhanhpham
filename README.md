@@ -6,12 +6,12 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Phạm Khánh Toàn** <img src="https://f8n-production.s3.amazonaws.com/creators/profile/c8gley51s-nyan-cat-large-gif-gif-mbf1sa.gif" width="400" align="right"/>
+- :credit_card: Phạm Khánh Toàn
 - :school: I'm student from **FPT University - Hòa Lạc Campus**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Hà Nội City, Viet Nam**
-- :sweat_smile: I'm a newbie in coding :penguin:
-- :monocle_face: I'm love Code
+
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
